@@ -11,8 +11,14 @@
       "package": "com.expoupdates"
     },
     "runtimeVersion": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e3e89043-db58-4249-a7e3-7958fb4a56c3"
+      }
+    },
     "updates": {
-      "url": "http://localhost:3000/api/manifest"
-    }
+      "url": "https://u.expo.dev/e3e89043-db58-4249-a7e3-7958fb4a56c3"
+    },
+    "owner": "kudochien"
   }
 }
